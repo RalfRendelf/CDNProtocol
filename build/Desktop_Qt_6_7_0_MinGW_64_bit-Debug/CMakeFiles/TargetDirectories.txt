@@ -1,0 +1,5 @@
+C:/Users/79080/Desktop/Project_for_Web_Site/CDNProtocol/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/CDNProtocol.dir
+C:/Users/79080/Desktop/Project_for_Web_Site/CDNProtocol/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/79080/Desktop/Project_for_Web_Site/CDNProtocol/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/79080/Desktop/Project_for_Web_Site/CDNProtocol/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/CDNProtocol_autogen_timestamp_deps.dir
+C:/Users/79080/Desktop/Project_for_Web_Site/CDNProtocol/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/CDNProtocol_autogen.dir

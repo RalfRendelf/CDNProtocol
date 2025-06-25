@@ -1,0 +1,12 @@
+#ifndef CDNPROTOCOL_GLOBAL_H
+#define CDNPROTOCOL_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(CDNPROTOCOL_LIBRARY)
+#define CDNPROTOCOL_EXPORT Q_DECL_EXPORT
+#else
+#define CDNPROTOCOL_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // CDNPROTOCOL_GLOBAL_H

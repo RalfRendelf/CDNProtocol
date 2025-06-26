@@ -1,0 +1,6 @@
+# ninja log v6
+6	1157	7726408674623813	CMakeFiles/CDNProtocol.dir/src/ProtocolUtils.cpp.obj	6c9ad801c0e73c1d
+7	1198	7726408674623813	CMakeFiles/CDNProtocol.dir/src/CommandRegistry.cpp.obj	48321fbb3abb7dda
+4	1270	7726408674623813	CMakeFiles/CDNProtocol.dir/src/ProtocolMessage.cpp.obj	23d533210b5c2672
+1270	1614	7726408690594214	libCDNProtocol.dll	4f3c00c151a10061
+1270	1614	7726408690594214	libCDNProtocol.dll.a	4f3c00c151a10061

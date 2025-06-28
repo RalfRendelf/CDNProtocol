@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/79080/Desktop/Project_for_Web_Site/DinamicWebInterface/CDNProtocol/build/cmake_install.cmake",
+		"C:/Users/79080/Desktop/Project_for_Web_Site/DinamicWebInterface/CDNProtocol/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

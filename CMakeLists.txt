@@ -43,3 +43,9 @@ install(TARGETS CDNProtocol
     ARCHIVE DESTINATION lib
 )
 install(DIRECTORY include/ DESTINATION include)
+# Подключение юнит-тестов
+include(CTest)                  # подключает поддержку ctest
+enable_testing()                # активирует тестирование
+add_subdirectory(tests)         # подключаем подпроект с тестами
+
+

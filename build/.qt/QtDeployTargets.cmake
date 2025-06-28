@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_test_ProtocolMessage_FILE C:/Users/79080/Desktop/Project_for_Web_Site/DinamicWebInterface/CDNProtocol/build/tests/test_ProtocolMessage.exe)
+set(__QT_DEPLOY_TARGET_test_ProtocolMessage_RUNTIME_DLLS C:/Users/79080/Desktop/Project_for_Web_Site/DinamicWebInterface/CDNProtocol/build/libCDNProtocol.dll;C:/Qt/6.7.0/mingw_64/bin/Qt6Test.dll;C:/Qt/6.7.0/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_test_CommandRegistry_FILE C:/Users/79080/Desktop/Project_for_Web_Site/DinamicWebInterface/CDNProtocol/build/tests/test_CommandRegistry.exe)
+set(__QT_DEPLOY_TARGET_test_CommandRegistry_RUNTIME_DLLS C:/Users/79080/Desktop/Project_for_Web_Site/DinamicWebInterface/CDNProtocol/build/libCDNProtocol.dll;C:/Qt/6.7.0/mingw_64/bin/Qt6Test.dll;C:/Qt/6.7.0/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_CDNProtocol_FILE C:/Users/79080/Desktop/Project_for_Web_Site/DinamicWebInterface/CDNProtocol/build/libCDNProtocol.dll)
+set(__QT_DEPLOY_TARGET_CDNProtocol_RUNTIME_DLLS C:/Qt/6.7.0/mingw_64/bin/Qt6Core.dll)

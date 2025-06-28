@@ -6,6 +6,7 @@
 
 namespace CDNProtocol {
 
+
 enum class Command {
     Register,
     StatusReport,
@@ -20,6 +21,7 @@ enum class Command {
     RenderPage,
     Ping
 };
+
 
 inline QString toString(Command c) {
     switch(c) {
@@ -57,5 +59,10 @@ inline std::optional<Command> fromString(const QString &s) {
     if (map.contains(s)) return map[s];
     return std::nullopt;
 }
+inline bool operator==(Command lhs, Command rhs) {
+    return static_cast<std::underlying_type_t<Command>>(lhs) ==
+           static_cast<std::underlying_type_t<Command>>(rhs);
+}
+
 
 } // namespace CDNProtocol
